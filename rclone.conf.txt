@@ -1,0 +1,8 @@
+[TorLeechBot]
+type = drive
+client_id = 946391606792-q53o13qrq1ou6noc7qng7j40cr9rlnea.apps.googleusercontent.com
+client_secret = B-OrQ71l8Sc5J1EaCNJAoJ_A
+scope = drive
+root_folder_id =
+token = {"access_token":"ya29.a0ARrdaM8cjqLQobgEL1C8Rp6tELdUTJJpvgwr2GSM2erWGBymzoB42d0KZT9hSqywKQwpjceL16FY7xrxxtmR7AaaefoVUkD0Xx9P7ZgTI2NhdJVc2KSR73lLRLiOx9WOohO87Ig_Vi7O1pKyvQCRhBRiIu5O","token_type":"Bearer","refresh_token":"1//0grK_u9-dqIz3CgYIARAAGBASNwF-L9Irks6Hpbq_nf9uFGq0ICK8dQqDoWBBFkDpeT5x22h-nLgC1UNS6yGMCyoADVKp44NtZ1g","expiry":"2021-07-18T20:04:04.5084582+06:30"}
+team_drive = 0AKy7T_mFfJmLUk9PVA
